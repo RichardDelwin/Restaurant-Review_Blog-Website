@@ -1,0 +1,33 @@
+.thumbnail img{
+    width: 50%;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.thumbnail-main img{
+    width:100%;
+}
+.thumbnail-main{
+    padding: 0;
+}
+.thumbnail{
+    padding: 0;
+    margin-left: 100px;
+    width: 900px;
+    height: 700px;
+}
+
+.thumbnail .caption-full{
+    padding: 9px ;
+}
+
+#deleteForm{
+    display: inline;
+}
+.element{
+    margin-left: 0px;
+}
+.comm{
+    margin-left: 10px;
+    height: 200px;
+}
+
